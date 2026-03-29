@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🏆 Achievements & Badges
 <p align="center">
   <a href="https://holopin.io/@ash1shkumar">
     <img src="https://holopin.me/ash1shkumar" alt="Holopin badges" />
