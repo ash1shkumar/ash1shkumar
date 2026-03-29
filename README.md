@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <a href="https://holopin.io/@yourusername">
+    <img src="https://holopin.me/yourusername" alt="Holopin badges" />
+  </a>
+</p>
