@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <a href="https://holopin.io/@yourusername">
-    <img src="https://holopin.me/yourusername" alt="Holopin badges" />
+  <a href="https://holopin.io/@ash1shkumar">
+    <img src="https://holopin.me/ash1shkumar" alt="Holopin badges" />
   </a>
 </p>
+
