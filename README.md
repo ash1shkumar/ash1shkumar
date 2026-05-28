@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 
-- 🎓 CS Undergraduate (2024–2027)
+- 🎓 CS Undergraduate (2024–2028)
 - 💻 Open Source Contributor
 - 🌐 Interested in Full-Stack Web Development
 - ⚡ Exploring Cloud & UI/UX
