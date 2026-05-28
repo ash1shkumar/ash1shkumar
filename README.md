@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 
-- 🎓 CS Undergraduate (2024–2028)
+- 🎓 CS Undergraduate (2024–2027)
 - 💻 Open Source Contributor
 - 🌐 Interested in Full-Stack Web Development
 - ⚡ Exploring Cloud & UI/UX
@@ -29,9 +29,31 @@ Always learning and improving through projects, open-source, and continuous deve
 ## 🏆 Achievements & Badges
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ash1shkumar/ash1shkumar/main/assets/gssoc-badge-top_100.png" width="150px" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://holopin.me/ash1shkumar" width="420px" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/ash1shkumar/ash1shkumar/main/assets/gssoc-badge-elite.png" width="150px" />
+  
+  <img src="https://raw.githubusercontent.com/ash1shkumar/ash1shkumar/main/assets/gssoc-badge-top_100.png" width="140px" />
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="240px" />
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/ash1shkumar/ash1shkumar/main/assets/gssoc-badge-elite.png" width="140px" />
+
+</p>
+
+<br>
+
+<p align="center">
+
+  <img src="https://raw.githubusercontent.com/ash1shkumar/ash1shkumar/main/assets/nsoc-first-badge.jpeg" width="140px" />
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/ash1shkumar/ash1shkumar/main/assets/nsoc-contributor.jpeg" width="140px" />
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/ash1shkumar/ash1shkumar/main/assets/hacktoberfest-contributor.webp" width="140px" />
+
 </p>
