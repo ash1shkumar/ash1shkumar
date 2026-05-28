@@ -23,23 +23,3 @@ Always learning and improving through projects, open-source, and continuous deve
 </td>
 </tr>
 </table>
-
----
-
-## 🏆 Achievements & Badges
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ash1shkumar/ash1shkumar/main/assets/gssoc-badge-top_100.png" height="180"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/ash1shkumar/ash1shkumar/main/assets/gssoc-badge-elite.png" height="180"/>
-
-<br><br><br>
-
-<img src="https://raw.githubusercontent.com/ash1shkumar/ash1shkumar/main/assets/NSOC%201st%20badge.png" height="165"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" height="240"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/ash1shkumar/ash1shkumar/main/assets/NSOC%20contributor.png" height="165"/>
-
-</div>
