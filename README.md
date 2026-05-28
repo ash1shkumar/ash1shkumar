@@ -30,26 +30,16 @@ Always learning and improving through projects, open-source, and continuous deve
 
 <div align="center">
 
-<!-- Top Row -->
+<img src="https://raw.githubusercontent.com/ash1shkumar/ash1shkumar/main/assets/gssoc-badge-top_100.png" height="180"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/ash1shkumar/ash1shkumar/main/assets/gssoc-badge-elite.png" height="180"/>
 
-<img src="https://raw.githubusercontent.com/ash1shkumar/ash1shkumar/main/assets/gssoc-badge-top_100.png" width="170"/>
+<br><br><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/ash1shkumar/ash1shkumar/main/assets/gssoc-badge-elite.png" width="170"/>
-
-<br><br>
-
-<!-- Bottom Row -->
-
-<img src="https://raw.githubusercontent.com/ash1shkumar/ash1shkumar/main/assets/NSOC%201st%20badge.png" width="150"/>
-
+<img src="https://raw.githubusercontent.com/ash1shkumar/ash1shkumar/main/assets/NSOC%201st%20badge.png" height="165"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="240"/>
-
+<img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" height="240"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/ash1shkumar/ash1shkumar/main/assets/NSOC%20contributor.png" width="150"/>
+<img src="https://raw.githubusercontent.com/ash1shkumar/ash1shkumar/main/assets/NSOC%20contributor.png" height="165"/>
 
 </div>
