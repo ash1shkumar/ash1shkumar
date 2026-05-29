@@ -1,4 +1,30 @@
-## Hi there 👋
+<h1 align="left">Hey 👋, I'm Ashish Kumar!</h1>
+
+<h3 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1500&color=00C2FF&width=700&speed=40&lines=CS+Undergrad;Full+Stack+Developer;Open+Source+Contributor;Building+Scalable+Projects;Exploring+AI%2FML" alt="Typing SVG" />
+</h3>
+
+<hr>
+
+<p align="left">
+  <a href="https://github.com/ash1shkumar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/ashish-kumar-rachavarapu/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:rashishkumar2006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://discord.com/users/ash1shkumar">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 <table>
 <tr>
@@ -7,12 +33,12 @@
 ## 💫 About Me
 
 - 🎓 CS Undergraduate (2024–2028)
-- 💻 Open Source Contributor
-- 🌐 Interested in Full-Stack Web Development
-- ⚡ Exploring Cloud & UI/UX
-- 🚀 Passionate about building real-world projects
+- 🌱 Currently learning AI/ML
+- ⚡ Exploring modern web technologies
+- 🚀 Building real-world projects and contributing to open source
+- 🎯 Focused on improving problem-solving and development skills
 
-Always learning and improving through projects, open-source, and continuous development.
+Passionate about learning, building, and growing through development.
 
 </td>
 
@@ -23,3 +49,25 @@ Always learning and improving through projects, open-source, and continuous deve
 </td>
 </tr>
 </table>
+
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,python,java,cpp,git,github,vscode" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ash1shkumar/ash1shkumar/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<p align="center">
+  ⭐ Always building, learning, and contributing.
+</p>
