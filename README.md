@@ -4,6 +4,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1500&color=00C2FF&width=700&speed=40&lines=CS+Undergrad;Full+Stack+Developer;Open+Source+Contributor;Building+Scalable+Projects;Exploring+AI%2FML" alt="Typing SVG" />
 </h3>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ash1shkumar&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 <hr>
 
 <p align="left">
